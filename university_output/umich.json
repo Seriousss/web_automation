@@ -1,0 +1,986 @@
+[
+  {
+    "name": "Ackerman, Mark S.",
+    "title": "George Herbert Mead Collegiate Professor of Human-Computer Interaction",
+    "email": "ackerm@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Adar, Eytan",
+    "title": "Associate Professor, School of Information",
+    "email": "eadar@umich.edu",
+    "research interest": "Research Interests: Human-Computer Interaction, Visualization, Text Mining, and Social Network Analysis"
+  },
+  {
+    "name": "Almomani, Raed",
+    "title": "Lecturer I, EECS – Computer Science and Engineering",
+    "email": "almomani@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Arthur, William",
+    "title": "Lecturer IV, EECS – Computer Science and Engineeing",
+    "email": "warthur@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Atkins, Daniel E.",
+    "title": "Professor Emeritus, School of Information",
+    "email": "atkins@umich.edu",
+    "research interest": "Research Interests: Library and Information Services"
+  },
+  {
+    "name": "Austin, Todd",
+    "title": "S. Jack Hu Collegiate Professor of Computer Science and Engineering",
+    "email": "austin@umich.edu",
+    "research interest": "Research Interests: Computer architecture, robust and secure system design, hardware and software verification, and performance analysis tools and techniques."
+  },
+  {
+    "name": "Banovic, Nikola",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "nbanovic@umich.edu",
+    "research interest": "Research Interests: Human-Computer Interaction, Explainable AI, Responsible AI."
+  },
+  {
+    "name": "Bansal, Nikhil",
+    "title": "Patrick C. Fischer Professor of Theoretical Computer Science",
+    "email": "bansaln@umich.edu",
+    "research interest": "Research Interests: Algorithms, Optimization, Machine Learning, Discrete Mathematics."
+  },
+  {
+    "name": "Baveja, Satinder Singh",
+    "title": "Professor, EECS – Computer Science and Engineering",
+    "email": "baveja@umich.edu",
+    "research interest": "Research Interests: Reinforcement Learning, Machine Learning, Computational Game Theory, Adaptive Human Computer Interaction."
+  },
+  {
+    "name": "Beaumont, Jonathan",
+    "title": "Lecturer IV, EECS – Computer Science and Engineering",
+    "email": "jbbeau@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Bertacco, Valeria",
+    "title": "Arthur F. Thurnau Professor",
+    "email": "valeria@umich.edu",
+    "research interest": "Research Interests: Improving the functional correctness of digital integrated circuits, by developing technology that attacks the issue at design time, in post-silicon, and throughout the lifetime of a digital integrated component, in face of the challenges posed by fragile silicon and extreme design complexity."
+  },
+  {
+    "name": "Bleier, Nathaniel",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "nbleier@umich.edu",
+    "research interest": "Research Interests: Extending the reach of computing to new applications and domains whose constraints are not met by traditional computing platforms through the development of novel chips, architectures, and systems."
+  },
+  {
+    "name": "Bodwin, Greg",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "bodwin@umich.edu",
+    "research interest": "Research Interests: Graph algorithms, data structures, sketching, game theory, and combinatorics."
+  },
+  {
+    "name": "Bogaerts, Steven",
+    "title": "Lecturer III, EECS – Computer Science and Engineering",
+    "email": "bogaerts@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Bondi-Kelly, Elizabeth",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "ecbk@umich.edu",
+    "research interest": "Research Interests: Multi-agent systems, human-AI collaboration, and machine learning for social impact."
+  },
+  {
+    "name": "Brehob, Mark",
+    "title": "Kurt Metzger Collegiate Lecturer",
+    "email": "brehob@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Bucher, Bernadette",
+    "title": "Assistant Professor, Robotics",
+    "email": "bucherb@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Budak, Ceren",
+    "title": "Associate Professor, School of Information",
+    "email": "cbudak@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Cafarella, Michael J.",
+    "title": "Adjunct Associate Professor, EECS – Computer Science and Engineering",
+    "email": "michjc@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Card, Dallas",
+    "title": "Assistant Professor, School of Information",
+    "email": "dalc@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Chai, Henry",
+    "title": "Lecturer III, EECS-Computer Science and Engineering",
+    "email": "henrych@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Chai, Joyce",
+    "title": "Professor, EECS – Computer Science and Engineering",
+    "email": "chaijy@umich.edu",
+    "research interest": "Research Interests: Natural language processing, language grounding to vision and robotics, situated human-machine communication, interactive task learning."
+  },
+  {
+    "name": "Chakraborty, Mithun",
+    "title": "Assistant Research Scientist, EECS – Computer Science and Engineering",
+    "email": "dcsmc@umich.edu",
+    "research interest": "Research Interests: Multi-Agent Systems, Computational Economics, Algorithmic Game Theory and Mechanism Design, Fair Allocation, Collective Forecasting."
+  },
+  {
+    "name": "Chen, Ang",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "chenang@umich.edu",
+    "research interest": "Research Interests: Systems, networking, security."
+  },
+  {
+    "name": "Chen, Peter M.",
+    "title": "Arthur F. Thurnau Professor",
+    "email": "pmchen@umich.edu",
+    "research interest": "Research Interests: Operating systems, computer security, virtual machines, fault-tolerant computing."
+  },
+  {
+    "name": "Cheraghchi, Mahdi",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "mahdich@umich.edu",
+    "research interest": "Research Interests: All theoretical aspects of CS, especially the role of information and coding theory in cryptography, complexity, algorithms, and high-dimensional geometry."
+  },
+  {
+    "name": "Chesney, David",
+    "title": "Collegiate Lecturer Emeritus, EECS – Computer Science and Engineering",
+    "email": "chesneyd@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Chowdhury, Mosharaf",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "mosharaf@umich.edu",
+    "research interest": "Research Interests: Networked systems and cloud computing."
+  },
+  {
+    "name": "Collins-Thompson, Kevyn",
+    "title": "Associate Professor, School of Information",
+    "email": "kevynct@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Compton, Kevin J.",
+    "title": "Associate Professor Emeritus, EECS – Computer Science and Engineering",
+    "email": "kjc@umich.edu",
+    "research interest": "Research Interests: Theory of computation, Complexity of combinatorial and logical problems, analysis of algorithms, automata theory"
+  },
+  {
+    "name": "Darden, Marcus",
+    "title": "Lecturer IV, EECS – Computer Science and Engineering",
+    "email": "mmdarden@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Das, Reetuparna",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "reetudas@umich.edu",
+    "research interest": "Research Interests: Computer architecture, and its interaction with software systems and device/VLSI technologies. Specialized interests include on-chip interconnection networks, three-dimensional IC design, and multi-core memory systems."
+  },
+  {
+    "name": "Davidson, Edward S",
+    "title": "Professor Emeritus, EECS – Computer Science and Engineering",
+    "email": "davidson@umich.edu",
+    "research interest": "Research Interests: Computer architecture, parallel and pipelined computing, performance modeling of computer systems"
+  },
+  {
+    "name": "DeOrio, Andrew W.",
+    "title": "Lecturer IV, EECS – Computer Science and Engineering",
+    "email": "awdeorio@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Dereziński, Michał",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "derezin@umich.edu",
+    "research interest": "Research Interests: Machine learning and statistical learning theory, scalable stochastic and distributed optimization, randomized numerical linear algebra, dimensionality reduction."
+  },
+  {
+    "name": "Dexter, Scott",
+    "title": "Lecturer III, EECS – Computer Science and Engineering",
+    "email": "sdexter@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Diaz, Kimberly Khalsa",
+    "title": "Lecturer IV, EECS – Computer Science and Engineering",
+    "email": "kkhalsa@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Dick, Robert",
+    "title": "Professor, EECS – Electrical and Computer Engineering",
+    "email": "dickrp@umich.edu",
+    "research interest": "Research Interests: Embedded systems."
+  },
+  {
+    "name": "Dong, Hao-Wen",
+    "title": "Assistant Professor of Music, School of Music, Theatre & Dance",
+    "email": "hwdong@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Doom, Travis",
+    "title": "Lecturer III, EECS-Computer Science & Engineering (effective fall 2025)",
+    "email": "tdoom@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Dorf, Mary Lou",
+    "title": "Collegiate Lecturer Emerita, EECS – Computer Science and Engineering",
+    "email": "mdorf@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Dreslinski, Ronald",
+    "title": "Miller Faculty Scholar",
+    "email": "rdreslin@umich.edu",
+    "research interest": "Research Interests: Novel architectures and design technologies for energy-efficient computing, including near-threshold computer design and experimental 3D computer chips."
+  },
+  {
+    "name": "Durfee, Edmund H.",
+    "title": "Professor Emeritus, EECS – Computer Science and Engineering",
+    "email": "durfee@umich.edu",
+    "research interest": "Research Interests: Multi-agent coordination and intelligent real-time systems"
+  },
+  {
+    "name": "Ensafi, Roya",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "ensafi@umich.edu",
+    "research interest": "Research Interests: Computer and network security, surveillance and censorship measurement, privacy and tech policy."
+  },
+  {
+    "name": "Ericson, Barbara",
+    "title": "Associate Professor, School of Information",
+    "email": "barbarer@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Fazeli, Nima",
+    "title": "Assistant Professor of Robotics",
+    "email": "nfz@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Fish, Benjamin",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "benfish@umich.edu",
+    "research interest": "Research Interests: Foundations of algorithmic fairness, ethics and justice in machine learning, theory of machine learning, learning with social context."
+  },
+  {
+    "name": "Flautner, Krisztián",
+    "title": "Professor of Engineering Practice, EECS – Computer Science and Engineering",
+    "email": "manowar@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Fouhey, David",
+    "title": "Adjunct Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "fouhey@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Garcia-Ramirez, Héctor",
+    "title": "Lecturer II, EECS – Computer Science and Engineering",
+    "email": "hjgarcia@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Genkin, Daniel",
+    "title": "Adjunct Associate Professor, EECS – Computer Science and Engineering",
+    "email": "genkin@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Gilbert, Eric",
+    "title": "John Derby Evans Professor of Information",
+    "email": "eegg@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Graetz, Emily",
+    "title": "Lecturer II, EECS – Computer Science and Engineering",
+    "email": "graetzer@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Grubbs, Paul",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "paulgrub@umich.edu",
+    "research interest": "Research Interests: Applied cryptography, computer security, privacy, systems security, and technology policy."
+  },
+  {
+    "name": "Guo, Anhong",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "anhong@umich.edu",
+    "research interest": "Research Interests: Human-computer interaction, artificial intelligence, accessibility, augmented reality, human-AI interaction"
+  },
+  {
+    "name": "Gurevich, Yuri",
+    "title": "Professor Emeritus, EECS – Computer Science and Engineering",
+    "email": "gurevich@umich.edu",
+    "research interest": "Research Interests: Quantum computing, privacy and security, software engineering, and theoretical computer science"
+  },
+  {
+    "name": "Guzdial, Mark",
+    "title": "Professor, EECS – Computer Science and Engineering",
+    "email": "mjguz@umich.edu",
+    "research interest": "Research Interests: Computing education research, task-specific programming languages, learning sciences, education public policy, design methods, and public policy."
+  },
+  {
+    "name": "Halderman, J. Alex",
+    "title": "Bredt Family Professor of Engineering",
+    "email": "jhalderm@umich.edu",
+    "research interest": "Research Interests: Computer security, electronic voting, digital rights management, information privacy, and tech policy."
+  },
+  {
+    "name": "Hamilton, Nicole",
+    "title": "Lecturer, EECS – Computer Science and Engineering",
+    "email": "nham@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Hayes, John P.",
+    "title": "Claude E. Shannon Professor Emeritus of Engineering Science",
+    "email": "jhayes@umich.edu",
+    "research interest": "Research Interests: Computer-aided design and testing, Computer architecture, Fault-tolerant design, VLSI circuits, Stochastic computing."
+  },
+  {
+    "name": "Hero, Alfred O.",
+    "title": "John H. Holland Distinguished University Professor of EECS",
+    "email": "hero@umich.edu",
+    "research interest": "Research Interests: Theory and algorithms underlying data science and machine learning. Theory includes applied probability, statistical modeling, and optimization. Applications include complex networks, spatio-temporal processes, computational biology, personalized health, and security."
+  },
+  {
+    "name": "Hollon, Todd",
+    "title": "Assistant Professor, Neurosurgery",
+    "email": "tocho@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Honeyman, Peter",
+    "title": "Research Professor Emeritus, EECS – Computer Science and Engineering",
+    "email": "honey@umich.edu",
+    "research interest": "Research Interests: Experimental distributed systems"
+  },
+  {
+    "name": "Hu, Wei",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "vvh@umich.edu",
+    "research interest": "Research Interests: Theoretical foundations of machine learning, including deep learning, representation learning, and optimization."
+  },
+  {
+    "name": "Huang, Ryan",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "ryanph@umich.edu",
+    "research interest": "Research Interests: Operating systems, distributed systems, cloud and mobile computing, software dependability, program analysis."
+  },
+  {
+    "name": "Jagadish, H.V.",
+    "title": "Bernard A. Galler Collegiate Professor of Electrical Engineering and Computer Science",
+    "email": "jag@umich.edu",
+    "research interest": "Research Interests: Big data, data mining, database systems, and bioinformatics."
+  },
+  {
+    "name": "Jahanbakhsh, Farnaz",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "farnaz@umich.edu",
+    "research interest": "Research Interests: Social computing systems that have pro-social outcomes, with applications to social media, education, collaboration, social justice, and gig economy. A main interest is designing systems that give people more autonomy and democratize power that is otherwise in the hands of a centralized authority."
+  },
+  {
+    "name": "Jain, Dhruv",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "profdj@umich.edu",
+    "research interest": "Research Interests: Accessibility, Human Computer Interaction, Sound Design, Augmented & Virtual Reality."
+  },
+  {
+    "name": "Jamin, Sugih",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "sugih@umich.edu",
+    "research interest": "Research Interests: Dynamic behaviors of large-scale systems, probabilistic distributed algorithms, computer network protocols and architectures, computer graphics."
+  },
+  {
+    "name": "Jeannin, Jean-Baptiste",
+    "title": "Associate Professor, Aerospace Engineering",
+    "email": "jeannin@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Jenkins, Chad",
+    "title": "Professor, College of Engineering Robotics Institute",
+    "email": "ocj@umich.edu",
+    "research interest": "Research Interests: Human-robot interaction, including exploration of methods that enable robots to learn human skills."
+  },
+  {
+    "name": "Johnson, Justin",
+    "title": "Adjunct Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "justincj@umich.edu",
+    "research interest": "Research Interests: Vision and language, visual reasoning, and image generation."
+  },
+  {
+    "name": "Juett, James",
+    "title": "Lecturer IV, EECS – Computer Science and Engineering",
+    "email": "jjuett@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Jurgens, David",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "jurgens@umich.edu",
+    "research interest": "Research Interests: Natural language processing, Generative AI, Computational social science, Crowdsourcing"
+  },
+  {
+    "name": "Kamil, Amir",
+    "title": "Lecturer IV, EECS – Computer Science and Engineering",
+    "email": "akamil@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Kapritsos, Manos",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "manosk@umich.edu",
+    "research interest": "Research Interests: Distributed systems, fault tolerance, formal verification, transaction processing."
+  },
+  {
+    "name": "Kasikci, Baris",
+    "title": "Adjunct Associate Professor, EECS – Computer Science and Engineering",
+    "email": "barisk@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Kieras, David E.",
+    "title": "Professor Emeritus, EECS – Computer Science and Engineering",
+    "email": "kieras@umich.edu",
+    "research interest": "Research Interests: Human-computer interaction, User interface design, Human cognition and performance, Natural language processing"
+  },
+  {
+    "name": "Kloosterman, John",
+    "title": "Lecturer IV, EECS – Computer Science and Engineering",
+    "email": "jklooste@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Koutra, Danai",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "dkoutra@umich.edu",
+    "research interest": "Research Interests: Artificial Intelligence, Data mining, Graph learning, Large-scale data analysis."
+  },
+  {
+    "name": "Kuipers, Benjamin",
+    "title": "Professor Emeritus, EECS – Computer Science and Engineering",
+    "email": "kuipers@umich.edu",
+    "research interest": "Research Interests: The representation of common sense and expert knowledge, with particular emphasis on the effective use of incomplete knowledge."
+  },
+  {
+    "name": "Kutty, Sindhu",
+    "title": "Lecturer IV, EECS – Computer Science and Engineering",
+    "email": "skutty@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Lafortune, Stéphane",
+    "title": "N. Harris McClamroch Collegiate Professor of Electrical Engineering and Computer Science",
+    "email": "stephane@umich.edu",
+    "research interest": "Research Interests: System and control theory; Discrete event systems; Application to computer and communication systems"
+  },
+  {
+    "name": "Laird, John E.",
+    "title": "John L. Tishman Professor Emeritus of Engineering",
+    "email": "laird@umich.edu",
+    "research interest": "Research Interests: Artificial Intelligence, Cognitive Architectures, Machine Learning, and Computer Games."
+  },
+  {
+    "name": "Lee, Euiwoong",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "euiwoong@umich.edu",
+    "research interest": "Research Interests: Algorithms, computational complexity, graph theory, and convex optimization. A particular focus is on approximation algorithms for NP-hard optimization problems."
+  },
+  {
+    "name": "Lee, Honglak",
+    "title": "Professor, EECS – Computer Science and Engineering",
+    "email": "honglak@umich.edu",
+    "research interest": "Research Interests: Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision"
+  },
+  {
+    "name": "Liao, Qingzi",
+    "title": "Visiting Associate Professor, EECS – Computer Science and Engineering",
+    "email": "veraliao@umich.edu",
+    "research interest": "Research Interests: Human-computer interaction, human-AI interaction, responsible AI"
+  },
+  {
+    "name": "Liu, Jie",
+    "title": "Associate Professor of Computational Medicine and Bioinformatics, Medical School",
+    "email": "drjieliu@umich.edu",
+    "research interest": "Research Interests: Bioinformatics, Machine Learning"
+  },
+  {
+    "name": "Liu, Mingyan",
+    "title": "Alice L. Hunt Collegiate Professor of Engineering",
+    "email": "mingyan@umich.edu",
+    "research interest": "Research Interests: Resource allocation, performance modeling, sequential decision and learning theory, game theory and incentive mechanisms, with applications to large-scale networked systems, cybersecurity and cyber risk quantification."
+  },
+  {
+    "name": "Ma, Lin",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "linmacse@umich.edu",
+    "research interest": "Research Interests:\nDatabase management systems, machine learning for systems."
+  },
+  {
+    "name": "Madhyastha, Harsha",
+    "title": "Adjunct Associate Professor, EECS – Computer Science and Engineering",
+    "email": "harshavm@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Mahlke, Scott",
+    "title": "Claude E. Shannon Professor of Engineering Science",
+    "email": "mahlke@umich.edu",
+    "research interest": "Research Interests: Compilers, application-specific processors, computer architecture and microarchitecture, embedded systems"
+  },
+  {
+    "name": "Makar, Maggie",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "mmakar@umich.edu",
+    "research interest": "Research Interests: Causal inference, machine learning, healthcare"
+  },
+  {
+    "name": "Manerkar, Yatin",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "manerkar@umich.edu",
+    "research interest": "Research Interests: Formal methods (modeling, verification, and synthesis) for hardware and software, hardware security, memory consistency, cache coherence, concurrency, ethical AI."
+  },
+  {
+    "name": "Mao, Zhuoqing Morley",
+    "title": "Professor, EECS – Computer Science and Engineering",
+    "email": "zmao@umich.edu",
+    "research interest": "Research Interests: Mobile computing, security, networking, distributed systems, SDN, and cloud computing."
+  },
+  {
+    "name": "Mars, Jason",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "profmars@umich.edu",
+    "research interest": "Research Interests: Cross-layer systems architectures for emerging applications, datacenter and warehouse-scale computer architecture, and hardware / software co-design."
+  },
+  {
+    "name": "Mazumder, Pinaki",
+    "title": "Professor, EECS – Electrical and Computer Engineering",
+    "email": "mazum@umich.edu",
+    "research interest": "Research Interests: VLSI circuit design, VLSI testing, and VLSI layout tools"
+  },
+  {
+    "name": "Mei, Qiaozhu",
+    "title": "Professor, School of Information",
+    "email": "qmei@umich.edu",
+    "research interest": "Research Interests: Information retrieval, text mining, social network analysis, and biomedical informatics"
+  },
+  {
+    "name": "Meyer, John F.",
+    "title": "Professor Emeritus, EECS – Computer Science and Engineering",
+    "email": "jfm@umich.edu",
+    "research interest": "Research Interests: Fault-tolerant computing, model-based performability evaluation, computer and telecommunication networks"
+  },
+  {
+    "name": "Mihalcea, Rada",
+    "title": "Janice M. Jenkins Collegiate Professor of Computer Science and Engineering",
+    "email": "mihalcea@umich.edu",
+    "research interest": "Research Interests: Natural language processing, computational social sciences, multimodal tracking and understanding of human behavior."
+  },
+  {
+    "name": "Morgan, Andrew",
+    "title": "Lecturer II, EECS – Computer Science and Engineering",
+    "email": "morgana@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Mower Provost, Emily",
+    "title": "Professor, EECS – Computer Science and Engineering",
+    "email": "emilykmp@umich.edu",
+    "research interest": "Research Interests: Audio-visual modeling of human behavior focusing on emotion. Focus on assistive speech-based technologies."
+  },
+  {
+    "name": "Mozafari, Barzan",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "mozafari@umich.edu",
+    "research interest": "Research Interests: Large-scale data-intensive systems, database-as-a-service clouds, distributed systems, and crowdsourcing."
+  },
+  {
+    "name": "Mudge, Trevor",
+    "title": "Bredt Family Professor Emeritus of Engineering",
+    "email": "tnm@umich.edu",
+    "research interest": "Research Interests: Computer systems design, low power computing, parallel processing, computer-aided design, impact of technology."
+  },
+  {
+    "name": "Nagarajan, Viswanath",
+    "title": "Assistant Professor, Industrial & Operations Engineering",
+    "email": "viswa@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Najarian, Kayvan",
+    "title": "Professor, Computational Medicine and Bioinformatics",
+    "email": "kayvan@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Narayanasamy, Satish",
+    "title": "Professor, EECS – Computer Science and Engineering",
+    "email": "nsatish@umich.edu",
+    "research interest": "Research Interests: Computer Architecture; Program Analysis; Confidential Computing; Health Systems"
+  },
+  {
+    "name": "Nebeling, Michael",
+    "title": "Associate Professor, School of Information",
+    "email": "nebeling@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "New, Max",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "maxsnew@umich.edu",
+    "research interest": "Research Interests: Developing and using mathematical tools to ensure correctness, safety and security of programming languages and their implementations."
+  },
+  {
+    "name": "Newman, Mark W",
+    "title": "Professor, School of Information",
+    "email": "mwnewman@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Nguyen, Long",
+    "title": "Associate Professor, Statistics",
+    "email": "xuanlong@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Noble, Brian",
+    "title": "Professor, EECS – Computer Science and Engineering",
+    "email": "bnoble@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Norris, Cathie",
+    "title": "Adjunct Clinical Professor",
+    "email": "cathieno@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Olson, Edwin",
+    "title": "Adjunct Professor, EECS – Computer Science and Engineering",
+    "email": "ebolson@umich.edu",
+    "research interest": "Research Interests: Finding ways for robots to sense and understand their environment while coping with uncertainty and ambiguity, multi-autonomous systems."
+  },
+  {
+    "name": "Omar, Cyrus",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "comar@umich.edu",
+    "research interest": "Research Interests: Fundamentally improving the programming experience for computational and data scientists, web app programmers, students and educators, and for people with disabilities who cannot effectively use other programming tools."
+  },
+  {
+    "name": "Oney, Stephen",
+    "title": "Associate Professor, School of Information",
+    "email": "soney@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Paoletti, David Robert",
+    "title": "Lecturer IV, EECS – Computer Science and Engineering",
+    "email": "paoletti@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Park, Jeong Joon",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "jjparkcv@umich.edu",
+    "research interest": "Research Interests: Computer vision; computer graphics; 3D reconstruction and generative models; applications of vision and graphics to robotics, medical imaging, and scientific problems."
+  },
+  {
+    "name": "Peikert, Christopher",
+    "title": "Professor, EECS – Computer Science and Engineering",
+    "email": "cpeikert@umich.edu",
+    "research interest": "Research Interests: Cryptography, lattices, coding theory, algorithms, and computational complexity. A particular focus is on cryptographic schemes whose security can be based on the apparent intractability of lattice problems."
+  },
+  {
+    "name": "Pendse, Ravi",
+    "title": "Vice President for Information Technology and Chief Information Officer, Office of the President",
+    "email": "rpendse@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Perez-Rosas, Veronica",
+    "title": "Adjunct Assistant Research Scientist, EECS – Computer Science and Engineering",
+    "email": "vrncapr@umich.edu",
+    "research interest": "Research Interests: Natural language processing, multi modal and cross-cultural approaches for deception detection and sentiment analysis, behavioral signal processing"
+  },
+  {
+    "name": "Pettie, Seth",
+    "title": "Professor, EECS – Computer Science and Engineering",
+    "email": "pettie@umich.edu",
+    "research interest": "Research Interests: Optimization algorithms, data structures, parallel and distributed computing, graph theory, and combinatorics."
+  },
+  {
+    "name": "Prakash, Atul",
+    "title": "Richard H. Orenstein Division Chair of Computer Science and Engineering",
+    "email": "aprakash@umich.edu",
+    "research interest": "Research Interests: Security policy management, software infrastructure to support collaborative work, privacy in pervasive computing, intrusion detection, group security, operating system security, scientific collaboratories."
+  },
+  {
+    "name": "Rampure, Suraj",
+    "title": "Lecturer III, EECS – Computer Science and Engineering",
+    "email": "rampure@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Ravi, Gokul",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "gsravi@umich.edu",
+    "research interest": "Research Interests: Quantum computing: Application-tailored full-stack optimization, Hardware-tailored error mitigation, Hybrid quantum-classical systems, Quantum error correction decoding, Classical simulation for quantum, Resource management (e.g., in the quantum cloud), Scalable quantum compilers; Computer architecture and systems; ML-assisted systems, Accelerating scientific applications."
+  },
+  {
+    "name": "Razak, Saquib",
+    "title": "LEO Lecturer III, EECS – Computer Science and Engineering",
+    "email": "razak@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Ringenberg, Jeffrey S.",
+    "title": "Teaching Professor, EECS – Computer Science and Engineering",
+    "email": "jringenb@umich.edu",
+    "research interest": "Research Interests: Mobile learning software development, tactile programming, methods for bringing technology into the classroom, and studying the effects of social networking and collaboration on learning."
+  },
+  {
+    "name": "Rodríguez, Alexander",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "alrodri@umich.edu",
+    "research interest": "Research Interests: Artificial intelligence, machine learning, multi-agent systems, computational epidemiology, public health."
+  },
+  {
+    "name": "Romero, Daniel",
+    "title": "Associate Professor, School of Information",
+    "email": "drom@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Rounds, Bill",
+    "title": "Professor Emeritus, EECS – Computer Science and Engineering",
+    "email": "rounds@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Roy Chowdhury, Amrita",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "aroyc@umich.edu",
+    "research interest": "Research Interests: Cryptography, Differential Privacy, Machine Learning"
+  },
+  {
+    "name": "Sakallah, Karem A.",
+    "title": "Professor, EECS – Computer Science and Engineering",
+    "email": "karem@umich.edu",
+    "research interest": "Research Interests: Computer-aided design of electronic systems, Boolean satisfiability, discrete optimization, and hardware and software verification."
+  },
+  {
+    "name": "Saleem, Sofia",
+    "title": "Lecturer II, EECS – Computer Science and Engineering",
+    "email": "sofias@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Sample, Alanson",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "apsample@umich.edu",
+    "research interest": "Research Interests: Human-computer interaction, wireless technology, and embedded systems, with the goal of tackling the critical bottlenecks that limit interactive sensing systems with an eye towards reducing deployment barriers and ensuring scalability."
+  },
+  {
+    "name": "Saranurak, Thatchaphol",
+    "title": "Morris Wellman Faculty Development Professor",
+    "email": "thsa@umich.edu",
+    "research interest": "Research Interests: Efficient graph algorithms and data structures, essentially for dynamic and distributed models."
+  },
+  {
+    "name": "Schaub, Florian",
+    "title": "Associate Professor, School of Information",
+    "email": "fschaub@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Shahbaz, Muhammad",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "msbaz@umich.edu",
+    "research interest": "Research Interests: Computer Systems, Networks, and Architecture and their interaction with Machine Learning."
+  },
+  {
+    "name": "Shin, Kang G.",
+    "title": "Kevin and Nancy O’Connor Professor of Computer Science",
+    "email": "kgshin@umich.edu",
+    "research interest": "Research Interests: Wireless/mobile computation and networks, security and dependability, cyber-physical systems, embedded real-time systems."
+  },
+  {
+    "name": "Smith, James",
+    "title": "Adjunct Professor, EECS – Computer Science and Engineering",
+    "email": "smithdj@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Smith, Matthew",
+    "title": "Adjunct Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "matsmith@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Soloway, Elliot",
+    "title": "Arthur F. Thurnau Professor",
+    "email": "soloway@umich.edu",
+    "research interest": "Research Interests: Artificial intelligence and software engineering, Artificial intelligence and education."
+  },
+  {
+    "name": "Stout, Quentin F.",
+    "title": "Co-Director, Center for Space Environment Modeling",
+    "email": "qstout@umich.edu",
+    "research interest": "Research Interests: Parallel computing, algorithms, supercomputing applied to problems in science and engineering, optimizing clinical trials"
+  },
+  {
+    "name": "Sun, Ke",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "kesuniot@umich.edu",
+    "research interest": "Research Interests: Mobile computing, Human-computer interaction, embedded systems, and IoT security and privacy, with the vision of developing intelligent, cost-effective, deployable, human-centric, and trustworthy mobile, wearable, and IoT systems."
+  },
+  {
+    "name": "Talati, Nishil",
+    "title": "Assistant Research Scientist, EECS – Computer Science and Engineering",
+    "email": "talatin@umich.edu",
+    "research interest": "Research Interests:\nDesign of both hardware and software techniques to optimize the execution of emerging data-intensive workloads. My research area spans computer architecture, compilers, VLSI design, and software engineering."
+  },
+  {
+    "name": "Tang, Lingjia",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "lingjia@umich.edu",
+    "research interest": "Research Interests: Computer architecture and compiler and runtime systems, especially such systems for large scale data centers."
+  },
+  {
+    "name": "Teneketzis, Demosthenis",
+    "title": "Professor Emeritus, EECS – Electrical and Computer Engineering",
+    "email": "teneket@umich.edu",
+    "research interest": "Research Interests: Stochastic control, decentralized stochastic systems, communication and queueing networks, stochastic scheduling and resource allocation problems, discrete event systems, mathematical economics"
+  },
+  {
+    "name": "Teorey, Toby",
+    "title": "Professor Emeritus, EECS – Computer Science and Engineering",
+    "email": "teorey@umich.edu",
+    "research interest": "Research Interests: Database design and data warehousing, OLAP, data mining, performance of computer systems"
+  },
+  {
+    "name": "Tewari, Ambuj",
+    "title": "Professor, Statistics",
+    "email": "tewaria@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Torralva, Ben",
+    "title": "LEO Lecturer I, EECS – Computer Science and Engineering",
+    "email": "bentorra@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Wang, Lu",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "wangluxy@umich.edu",
+    "research interest": "Research Interests: Natural language processing, computational social sciences, machine learning"
+  },
+  {
+    "name": "Wang, Xinyu",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "xwangsd@umich.edu",
+    "research interest": "Research Interests: Programming Languages, Formal Methods, Software Engineering. Program synthesis, verification, analysis, and testing."
+  },
+  {
+    "name": "Wang, Xu",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "xwanghci@umich.edu",
+    "research interest": "Research Interests: Human-computer interaction, artificial intelligence in education, computer supported collaborative learning and work, human-AI interaction, learning sciences and technologies, cognitive science."
+  },
+  {
+    "name": "Weimer, Westley",
+    "title": "Professor, EECS – Computer Science and Engineering",
+    "email": "weimerw@umich.edu",
+    "research interest": "Research Interests: Programming languages; software engineering; medical imaging; program analysis, synthesis and improvement."
+  },
+  {
+    "name": "Wein, Nicole",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "nswein@umich.edu",
+    "research interest": "Research Interests: Algorithms, data structures, graph theory, dynamic/online/distributed models, fine-grained complexity."
+  },
+  {
+    "name": "Welch, Joshua",
+    "title": "Associate Professor, Computational Medicine and Bioinformatics",
+    "email": "welchjd@umich.edu",
+    "research interest": "Research Interests: Computational biology and machine learning."
+  },
+  {
+    "name": "Wellman, Michael",
+    "title": "Lynn A. Conway Collegiate Professor of Computer Science and Engineering",
+    "email": "wellman@umich.edu",
+    "research interest": "Research Interests: Artificial Intelligence, Electronic Commerce"
+  },
+  {
+    "name": "Wiens, Jenna",
+    "title": "Associate Professor, EECS – Computer Science and Engineering",
+    "email": "wiensj@umich.edu",
+    "research interest": "Research Interests: Artificial Intelligence, Machine Learning, Computational Healthcare"
+  },
+  {
+    "name": "Winsor, Don",
+    "title": "Departmental Computing Organization Coordinator",
+    "email": "don@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Wu, Ke",
+    "title": "Assistant Professor, EECS – Computer Science and Engineering",
+    "email": "kewucse@umich.edu",
+    "research interest": "Research Interests: Cryptography and game theory, as well as related areas in theoretical Computer Science, especially how they can be combined and applied to design better decentralized applications."
+  },
+  {
+    "name": "Yarger, Austin",
+    "title": "Lecturer II, EECS – Computer Science and Engineering",
+    "email": "ayarger@umich.edu",
+    "research interest": "Research Interests: – Midwestern Entrepreneurship (Founder of the Michigan Game Studios Database) – Game Development / Extended Reality (Arbor Interactive Game Studio) – Game Development pedagogy (EECS 494 : Introduction to Game Development course) – Extended Reality (XR) pedagogy (EECS 498 : Extended Reality and Society course) – Game Engine pedagogy (EECS 498 : Game Engine Architecture) – Student-Run Game Studios (Wolverine Soft Studio)"
+  },
+  {
+    "name": "Yu, Stella",
+    "title": "Professor, EECS – Computer Science and Engineering",
+    "email": "stellayu@umich.edu",
+    "research interest": "Research Interests: I study visual perception from multiple perspectives: human vision, computer vision, robotic vision, and artistic vision. To me, visual perception presents not just a fascinating computational problem, but more importantly an intelligent solution for large-scale data mining and pattern recognition applications."
+  },
+  {
+    "name": "Z, Y",
+    "title": "Professor, Department of Nuclear Engineering and Radiological Sciences",
+    "email": "yzyz@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Zhou, Jiayu",
+    "title": "Associate Professor of Information, School of Information",
+    "email": "jiayuz@umich.edu",
+    "research interest": ""
+  },
+  {
+    "name": "Zhu, Junyi",
+    "title": "Assistant Professor, EECS – Electrical and Computer Engineering",
+    "email": "zhujunyi@umich.edu",
+    "research interest": "Research Interests:\nHuman-computer interaction, novel sensing devices, fabrication, embedded systems, personal health and medical devices, interaction techniques, prototyping"
+  }
+]

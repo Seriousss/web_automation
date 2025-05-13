@@ -1,0 +1,487 @@
+[
+  {
+    "name": "Tim Althoff",
+    "title": "Associate Professor",
+    "research interest": "Data Science; Ethics & Fairness; Human-Centered AI; Natural Language Processing; Social Computing"
+  },
+  {
+    "name": "Ruth E. Anderson",
+    "title": "Teaching Professor",
+    "research interest": "Computing Education"
+  },
+  {
+    "name": "Tom Anderson",
+    "title": "Professor",
+    "research interest": "Cloud Computing; Computer Networking; Operating & Distributed Systems"
+  },
+  {
+    "name": "Magdalena Balazinska",
+    "title": "Professor & Director",
+    "research interest": "Cloud Computing; Data Management; Data Science"
+  },
+  {
+    "name": "Leilani Battle",
+    "title": "Associate Professor",
+    "research interest": "Data Management; Data Science; Data Visualization; Human-Centered AI; Human-Computer Interaction"
+  },
+  {
+    "name": "Paul Beame",
+    "title": "Professor",
+    "research interest": "Algorithms; Complexity; Quantum Computing"
+  },
+  {
+    "name": "Gilbert Bernstein",
+    "title": "Assistant Professor",
+    "research interest": "Computer Graphics & Animation; Programming Languages"
+  },
+  {
+    "name": "Rastislav Bodik",
+    "title": "Professor",
+    "research interest": "Programming Languages"
+  },
+  {
+    "name": "Byron Boots",
+    "title": "Professor",
+    "research interest": "Computer Vision; Machine Learning; Robotics"
+  },
+  {
+    "name": "Lauren Bricker",
+    "title": "Associate Teaching Professor",
+    "research interest": "Computing Education; Computing Education Research; Fabrication; Human-Computer Interaction"
+  },
+  {
+    "name": "Nathan Brunelle",
+    "title": "Associate Teaching Professor",
+    "research interest": "Computing Education"
+  },
+  {
+    "name": "Maya Cakmak",
+    "title": "Professor",
+    "research interest": "Accessibility; Human-Centered AI; Human-Computer Interaction; Robotics"
+  },
+  {
+    "name": "Luis Ceze",
+    "title": "Professor",
+    "research interest": "Architecture & Parallel Computing; Machine Learning; Molecular Programming & Synthetic Biology"
+  },
+  {
+    "name": "Andrea Coladangelo",
+    "title": "Assistant Professor",
+    "research interest": "Quantum Computing; Cryptography"
+  },
+  {
+    "name": "Brian Curless",
+    "title": "Professor",
+    "research interest": "Augmented, Virtual & Mixed Reality; Computer Graphics & Animation; Computer Vision"
+  },
+  {
+    "name": "Simon Shaolei Du",
+    "title": "Assistant Professor",
+    "research interest": "Algorithms; Data Science; Generative AI; Machine Learning"
+  },
+  {
+    "name": "Michael Ernst",
+    "title": "Professor",
+    "research interest": "Computing Education Research; Formal Methods; Programming Languages; Security & Privacy; Software Engineering"
+  },
+  {
+    "name": "Ali Farhadi",
+    "title": "Professor",
+    "research interest": "Computer Vision; Knowledge Representation & Reasoning; Machine Learning; Natural Language Processing"
+  },
+  {
+    "name": "James Fogarty",
+    "title": "Professor",
+    "research interest": "Accessibility; Human-Centered AI; Human-Computer Interaction; Ubiquitous Computing, Sensing & Embedded Systems"
+  },
+  {
+    "name": "Dieter Fox",
+    "title": "Professor",
+    "research interest": "Robotics"
+  },
+  {
+    "name": "Jon E. Froehlich",
+    "title": "Professor",
+    "research interest": "Accessibility; Augmented, Virtual & Mixed Reality; Human-Computer Interaction; Ubiquitous Computing, Sensing & Embedded Systems"
+  },
+  {
+    "name": "Elba Garza",
+    "title": "Assistant Teaching Professor",
+    "research interest": "Architecture & Parallel Computing; Computing Education Research"
+  },
+  {
+    "name": "Shyam Gollakota",
+    "title": "Professor",
+    "research interest": "Computer Networking; Human-Centered AI; Ubiquitous Computing, Sensing & Embedded Systems; Wireless Systems"
+  },
+  {
+    "name": "Matthew Golub",
+    "title": "Assistant Professor",
+    "research interest": "Computational Neuroscience & Neuroengineering; Data Science; Machine Learning"
+  },
+  {
+    "name": "Dan Grossman",
+    "title": "Professor & Vice Director",
+    "research interest": "Computing Education Research; Programming Languages"
+  },
+  {
+    "name": "Abhishek Gupta",
+    "title": "Assistant Professor",
+    "research interest": "Computer Vision; Machine Learning; Robotics"
+  },
+  {
+    "name": "Hannaneh Hajishirzi",
+    "title": "Associate Professor",
+    "research interest": "Generative AI; Knowledge Representation & Reasoning; Machine Learning; Natural Language Processing"
+  },
+  {
+    "name": "Jeffrey Heer",
+    "title": "Professor",
+    "research interest": "Data Management; Data Science; Data Visualization; Human-Computer Interaction"
+  },
+  {
+    "name": "Kurtis Heimerl",
+    "title": "Associate Professor",
+    "research interest": "Computer Networking; Computing for Development; Human-Computer Interaction"
+  },
+  {
+    "name": "Justin Hsia",
+    "title": "Associate Teaching Professor",
+    "research interest": "Computing Education Research"
+  },
+  {
+    "name": "Vikram Iyer",
+    "title": "Assistant Professor",
+    "research interest": "Robotics; Ubiquitous Computing, Sensing & Embedded Systems; Wireless Systems"
+  },
+  {
+    "name": "Kevin Jamieson",
+    "title": "Associate Professor",
+    "research interest": "Machine Learning"
+  },
+  {
+    "name": "Natasha Jaques",
+    "title": "Assistant Professor",
+    "research interest": "Generative AI; Human-Centered AI; Machine Learning; Natural Language Processing"
+  },
+  {
+    "name": "René Just",
+    "title": "Associate Professor",
+    "research interest": "Data Science; Security & Privacy; Software Engineering"
+  },
+  {
+    "name": "Anna R. Karlin",
+    "title": "Professor",
+    "research interest": "Algorithms"
+  },
+  {
+    "name": "Baris Kasikci",
+    "title": "Associate Professor",
+    "research interest": "Architecture & Parallel Computing; Computer Networking; Operating & Distributed Systems; Programming Languages"
+  },
+  {
+    "name": "Ira Kemelmacher-Shlizerman",
+    "title": "Professor",
+    "research interest": "Augmented, Virtual & Mixed Reality; Computer Graphics & Animation; Computer Vision; Generative AI"
+  },
+  {
+    "name": "Pang Wei Koh",
+    "title": "Assistant Professor",
+    "research interest": "Explainable AI; Generative AI; Machine Learning; Natural Language Processing"
+  },
+  {
+    "name": "David Kohlbrenner",
+    "title": "Assistant Professor",
+    "research interest": "Architecture & Parallel Computing; Operating & Distributed Systems; Security & Privacy"
+  },
+  {
+    "name": "Yoshi Kohno",
+    "title": "Professor",
+    "research interest": "Augmented, Virtual & Mixed Reality; Ethics & Fairness; Human-Centered AI; Human-Computer Interaction; Security & Privacy"
+  },
+  {
+    "name": "Ranjay Krishna",
+    "title": "Assistant Professor",
+    "research interest": "Computer Vision; Human-Centered AI; Machine Learning; Natural Language Processing; Robotics"
+  },
+  {
+    "name": "Arvind Krishnamurthy",
+    "title": "Professor",
+    "research interest": "Cloud Computing; Computer Networking; Operating & Distributed Systems"
+  },
+  {
+    "name": "Ed Lazowska",
+    "title": "Professor",
+    "research interest": "Cloud Computing; Computer Networking; Data Science; Operating & Distributed Systems"
+  },
+  {
+    "name": "James R. Lee",
+    "title": "Professor",
+    "research interest": "Algorithms; Complexity"
+  },
+  {
+    "name": "Su-In Lee",
+    "title": "Professor",
+    "research interest": "Computational Biology; Explainable AI; Machine Learning"
+  },
+  {
+    "name": "Yin Tat Lee",
+    "title": "Associate Professor",
+    "research interest": "Algorithms"
+  },
+  {
+    "name": "Jerry Li",
+    "title": "Associate Professor",
+    "research interest": "Machine Learning; Quantum Computing"
+  },
+  {
+    "name": "Huijia (Rachel) Lin",
+    "title": "Professor",
+    "research interest": "Algorithms; Complexity; Cryptography"
+  },
+  {
+    "name": "Kevin Lin",
+    "title": "Assistant Teaching Professor",
+    "research interest": "Computing Education Research"
+  },
+  {
+    "name": "Ryan Maas",
+    "title": "Assistant Teaching Professor",
+    "research interest": "Cloud Computing; Computing Education Research; Data Management"
+  },
+  {
+    "name": "Ratul Mahajan",
+    "title": "Associate Professor",
+    "research interest": "Cloud Computing; Computer Networking; Formal Methods; Operating & Distributed Systems"
+  },
+  {
+    "name": "Jen Mankoff",
+    "title": "Professor",
+    "research interest": "Accessibility; Ethics & Fairness; Fabrication; Human-Computer Interaction; Ubiquitous Computing, Sensing & Embedded Systems"
+  },
+  {
+    "name": "Barbara Mones",
+    "title": "Teaching Professor",
+    "research interest": "Augmented, Virtual & Mixed Reality; Computer Graphics & Animation; Computing Education Research"
+  },
+  {
+    "name": "Jamie Morgenstern",
+    "title": "Associate Professor",
+    "research interest": "Ethics & Fairness; Human-Centered AI; Machine Learning"
+  },
+  {
+    "name": "Sara Mostafavi",
+    "title": "Associate Professor",
+    "research interest": "Computational Biology; Machine Learning"
+  },
+  {
+    "name": "Miya Natsuhara",
+    "title": "Assistant Teaching Professor",
+    "research interest": "Computing Education Research"
+  },
+  {
+    "name": "Chinmay Nirkhe",
+    "title": "Assistant Professor",
+    "research interest": "Complexity; Quantum Computing"
+  },
+  {
+    "name": "Jeff Nivala",
+    "title": "Assistant Professor",
+    "research interest": "Computational Biology; Molecular Programming & Synthetic Biology"
+  },
+  {
+    "name": "Sewoong Oh",
+    "title": "Professor",
+    "research interest": "Machine Learning; Security & Privacy"
+  },
+  {
+    "name": "Mark Oskin",
+    "title": "Professor",
+    "research interest": "Architecture & Parallel Computing"
+  },
+  {
+    "name": "Shayan Oveis Gharan",
+    "title": "Professor",
+    "research interest": "Algorithms"
+  },
+  {
+    "name": "Shwetak Patel",
+    "title": "Professor",
+    "research interest": "Human-Computer Interaction; Machine Learning; Ubiquitous Computing, Sensing & Embedded Systems"
+  },
+  {
+    "name": "Hal Perkins",
+    "title": "Teaching Professor",
+    "research interest": "Computing Education Research"
+  },
+  {
+    "name": "Simon Peter",
+    "title": "Associate Professor",
+    "research interest": "Cloud Computing; Computer Networking; Operating & Distributed Systems"
+  },
+  {
+    "name": "Zoran Popović",
+    "title": "Professor",
+    "research interest": "Computational Biology; Computer Graphics & Animation; Computer Vision; Robotics"
+  },
+  {
+    "name": "Anup Rao",
+    "title": "Professor",
+    "research interest": "Algorithms; Complexity"
+  },
+  {
+    "name": "Rajesh P.N. Rao",
+    "title": "Professor",
+    "research interest": "Human-Centered AI; Computational Neuroscience & Neuroengineering; Robotics"
+  },
+  {
+    "name": "Stuart Reges",
+    "title": "Teaching Professor",
+    "research interest": "Computing Education Research"
+  },
+  {
+    "name": "Katharina Reinecke",
+    "title": "Professor",
+    "research interest": "Ethics & Fairness; Human-Centered AI; Human-Computer Interaction"
+  },
+  {
+    "name": "Franziska Roesner",
+    "title": "Professor",
+    "research interest": "Augmented, Virtual & Mixed Reality; Human-Computer Interaction; Security & Privacy"
+  },
+  {
+    "name": "Thomas Rothvoss",
+    "title": "Professor",
+    "research interest": "Algorithms"
+  },
+  {
+    "name": "Adrian Salguero",
+    "title": "Assistant Teaching Professor",
+    "research interest": "Computing Education; Computing Education Research"
+  },
+  {
+    "name": "Hunter Schafer",
+    "title": "Associate Teaching Professor",
+    "research interest": "Computer Science Education"
+  },
+  {
+    "name": "Adriana Schulz",
+    "title": "Assistant Professor",
+    "research interest": "Computer Graphics & Animation; Fabrication; Human-Centered AI"
+  },
+  {
+    "name": "Georg Seelig",
+    "title": "Professor",
+    "research interest": "Computational Biology; Molecular Programming & Synthetic Biology"
+  },
+  {
+    "name": "Steven Seitz",
+    "title": "Professor",
+    "research interest": "Augmented, Virtual & Mixed Reality; Computer Graphics & Animation; Computer Vision; Generative AI"
+  },
+  {
+    "name": "Linda Shapiro",
+    "title": "Professor",
+    "research interest": "Computational Biology; Computer Vision; Machine Learning"
+  },
+  {
+    "name": "R. Benjamin Shapiro",
+    "title": "Associate Professor",
+    "research interest": "Computing Education Research; Fabrication; Human-Centered AI; Human-Computer Interaction"
+  },
+  {
+    "name": "Joshua Smith",
+    "title": "Professor",
+    "research interest": "Computer Networking; Robotics; Ubiquitous Computing, Sensing & Embedded Systems; Wireless Sensing"
+  },
+  {
+    "name": "Noah Smith",
+    "title": "Professor",
+    "research interest": "Machine Learning; Natural Language Processing"
+  },
+  {
+    "name": "Siddhartha (Sidd) Srinivasa",
+    "title": "Professor",
+    "research interest": "Accessibility; Human-Centered AI; Machine Learning; Robotics"
+  },
+  {
+    "name": "Dan Suciu",
+    "title": "Professor",
+    "research interest": "Data Management; Data Science; Formal Methods"
+  },
+  {
+    "name": "Steve Tanimoto",
+    "title": "Professor",
+    "research interest": "Computing Education Research; Human-Centered AI; Human-Computer Interaction"
+  },
+  {
+    "name": "Zachary Tatlock",
+    "title": "Professor",
+    "research interest": "Fabrication; Formal Methods; Programming Languages"
+  },
+  {
+    "name": "Michael Bedford Taylor",
+    "title": "Professor",
+    "research interest": "Architecture & Parallel Computing; Generative AI"
+  },
+  {
+    "name": "Stefano Tessaro",
+    "title": "Professor",
+    "research interest": "Cryptography; Security & Privacy"
+  },
+  {
+    "name": "Chris Thachuk",
+    "title": "Assistant Professor",
+    "research interest": "Molecular Programming & Synthetic Biology"
+  },
+  {
+    "name": "Yulia Tsvetkov",
+    "title": "Associate Professor",
+    "research interest": "Ethics & Fairness; Human-Centered AI; Natural Language Processing"
+  },
+  {
+    "name": "Nirvan Tyagi",
+    "title": "Assistant Professor",
+    "research interest": "Cryptography; Security & Privacy"
+  },
+  {
+    "name": "Matt Wang",
+    "title": "Assistant Teaching Professor",
+    "research interest": "Computing Education Research"
+  },
+  {
+    "name": "Sheng Wang",
+    "title": "Assistant Professor",
+    "research interest": "Computational Biology; Generative AI; Machine Learning; Natural Language Processing"
+  },
+  {
+    "name": "Stephanie Wang",
+    "title": "Assistant Professor",
+    "research interest": "Operating & Distributed Systems; Programming Languages"
+  },
+  {
+    "name": "Robbie Weber",
+    "title": "Assistant Teaching Professor",
+    "research interest": "Algorithms; Computing Education Research"
+  },
+  {
+    "name": "James R. Wilcox",
+    "title": "Assistant Teaching Professor",
+    "research interest": "Computing Education Research; Operating & Distributed Systems; Programming Languages"
+  },
+  {
+    "name": "Brett Wortzman",
+    "title": "Associate Teaching Professor",
+    "research interest": "Computing Education Research"
+  },
+  {
+    "name": "Luke Zettlemoyer",
+    "title": "Professor",
+    "research interest": "Natural Language Processing"
+  },
+  {
+    "name": "Amy Zhang",
+    "title": "Assistant Professor",
+    "research interest": "Human-Centered AI; Human Computer Interaction; Social Computing"
+  }
+]

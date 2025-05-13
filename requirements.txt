@@ -1,0 +1,13 @@
+undetected-chromedriver
+selenium
+openai>=0.27.0
+datasets
+tqdm
+python-dotenv
+argparse
+requests>=2.28.0
+webdriver-manager
+urllib3
+json5
+regex
+logging
